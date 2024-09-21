@@ -11,7 +11,7 @@ public class CurrencyConverter {
         System.out.println("Enter the base currency: ");
         String baseCurrency = input.nextLine();
 
-        System.out.println("Enter the target currency: ");
+        System.out.println("Enter the target currencyyy: ");
         String targetCurrency = input.nextLine();
 
         System.out.println("Enter the amount to convert: ");
